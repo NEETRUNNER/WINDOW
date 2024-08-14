@@ -1878,7 +1878,11 @@ textarea:focus {
 
     .header .logo_img img {
         margin-right: 0rem;
-    }  
+    }
+
+    .popup_calc_content {
+ 	top: 3%;
+    }
 }
 
 /* small devices, tablets */
